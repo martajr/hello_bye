@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dummy</string>
+    <string name="dummy_screen_title">Dummy</string>
+    <string name="action_settings">Settings</string>
+    <string name="screen_text">Text</string>
+    <string name="button_label">Button</string>
+    <string name="buttonSayHello">Say Hello</string>
+    <string name="buttonGoBye">Go Bye</string>
+    <string name="buttonBackHello">Back to Hello</string>
+    <string name="buttonSayBye">Say Bye</string>
+</resources>
