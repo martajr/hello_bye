@@ -14,6 +14,7 @@ public class App extends Application implements Mediator, Navigator {
 
   private DummyState toDummyState, dummyToState;
   private HelloState toHelloState, helloToState;
+
   private HelloState toByeState, ByeToState;
 
   @Override
