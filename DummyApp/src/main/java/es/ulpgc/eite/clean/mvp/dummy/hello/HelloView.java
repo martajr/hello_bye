@@ -28,7 +28,7 @@ public class HelloView
     toolbar = (Toolbar) findViewById(R.id.toolbar);
     setSupportActionBar(toolbar);
 
-    button = (Button) findViewById(R.id.button);
+    button = (Button) findViewById(R.id.buttonSayHello);
     button.setOnClickListener(new View.OnClickListener() {
       @Override
       public void onClick(View view) {
